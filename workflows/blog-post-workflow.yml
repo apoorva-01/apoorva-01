@@ -13,4 +13,4 @@ jobs:
       - uses: https://medium.com/feed/@vermaapoorva0510
      
         with:
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          feed_list: "https://loving-knuth-fb7a47.netlify.app/,https://www.gautamkrishnar.com/feed/"
