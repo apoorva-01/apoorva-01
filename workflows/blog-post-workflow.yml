@@ -10,5 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: https://medium.com/feed/@vermaapoorva0510
+     
         with:
           feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
