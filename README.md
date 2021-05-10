@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **apoorva-01/apoorva-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,6 @@ Here are some ideas to get you started:
 
 
 <!-- BLOG-POST-LIST:START -->
-
 
 <h1 align="center">Hi 👋, this is Apoorva Verma</h1>
 <h3 align="center">Deep Learning Enthusiast | Full Stack Developer | Python Dev </h3>
@@ -62,10 +59,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools I used:</h3>
 <p align="left">
-<h5>Python</h5>
+<h5 style="color: #0198E1">Python</h5>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  
-<h5>Web Development</h5>
+<h5 style="color: #0198E1">Web Development</h5>
 <p>Frontend</p>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank"> 
@@ -78,17 +75,17 @@ Here are some ideas to get you started:
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  -->
-<h5>Machine Learning</h5>
-<h5>DataBase</h5>
+<h5 style="color: #0198E1">Machine Learning</h5>
+<h5 style="color: #0198E1">DataBase</h5>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<h5>Designing</h5>
+<h5 style="color: #0198E1">Designing</h5>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 
-
+<h5 style="color: #0198E1">Other Programming Languages:</h5>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-
+<h5 style="color: #0198E1">DevOps </h5>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 <hr>
@@ -98,10 +95,10 @@ Here are some ideas to get you started:
 <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorva-01&show_icons=true&locale=en&layout=compact" alt="apoorva-01" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorva-01&show_icons=true&locale=en" alt="apoorva-01" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva-01&" alt="apoorva-01" /></p>
-
 
 
 
