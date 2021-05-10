@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/apoorva-verma-aa045a202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorva-01" height="30" width="40" /></a>
+  <a href="https://github.com/apoorva-01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorva-01" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
 <a href="https://medium.com/@vermaapoorva0510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vermaapoorva0510" height="30" width="40" /></a>
 
