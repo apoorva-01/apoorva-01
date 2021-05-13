@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargav2427" alt="bhargav2427" /></a> </p> -->
 
+- 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)**
+
 - 🌱 I’m currently learning **Django.**
 
 - <b>🔭 Working:</b> NLP Powered Chatbot and Bills Reminding Web Application
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vermaapoorva0510@gmail.com**
 
-- 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)**
+
 
 <!-- - ⚡ Fun fact **I think I am Funny** -->
 
