@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [Blog](https://bizdamn.netlify.app/)
 
-<!-- - 💬 Ask me about **Python, Flask** -->
+- 💬 Ask me about **Python, Flask**
 
-- 📫 How to reach me **vermaapoorva0510@gmail.com**
+- 📫 Want a website/web-application **vermaapoorva0510@gmail.com**
 
 - 👯 I’m looking to collaborate on **JavaScript or Python.**
 
