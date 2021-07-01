@@ -24,28 +24,27 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargav2427" alt="bhargav2427" /></a> </p> -->
 
 - 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)**
+- ✌ Working as a Full Stack Developer at  **[ThinkBiz](https://www.thinkbiz.co.uk/)**
 
-- 🌱 I’m currently learning **Django.**
+- 🌱 I’m currently learning **Django and React**
 
-- <b>🔭 Working:</b> NLP Powered Chatbot and Bills Reminding Web Application
+- <b>🔭 Working:</b> NLP Powered Chatbot and Social Media App for my College
 
-- <b>💻 Coding:</b> is my favourite Sport.
+<!-- - <b>💻 Coding:</b> is my favourite Sport. -->
 
 - <b>💁‍♂️ Interesting:</b> Deep Learning
+
+- ⚡ Fun fact: I thaught I am ready to Hack NASA after learning HTML 😂🤣
 
 - 🤔 I’m looking for help with : Machine Learning
 
 - 👨‍💻 All of my projects are available at [https://github.com/apoorva-01](https://github.com/apoorva-01)
 
-- 📝 I regularly write articles on [www.pythonschooling.com](www.pythonschooling.com)
+- 📝 I regularly write articles on [Blog](https://bizdamn.netlify.app/)
 
 <!-- - 💬 Ask me about **Python, Flask** -->
 
 - 📫 How to reach me **vermaapoorva0510@gmail.com**
-
-
-
-<!-- - ⚡ Fun fact **I think I am Funny** -->
 
 - 👯 I’m looking to collaborate on **JavaScript or Python.**
 
