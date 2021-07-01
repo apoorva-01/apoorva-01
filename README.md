@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/apoorva-01](https://github.com/apoorva-01)
 
-- 📝 I regularly write articles on [Blog](https://bizdamn.netlify.app/)
+- 📝 I regularly write  [Blogs](https://bizdamn.netlify.app/)
 
 - 💬 Ask me about **Python, Flask**
 
