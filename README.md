@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - <b>💁‍♂️ Interesting:</b> Deep Learning
 
-- ⚡ Fun fact: I thaught I am ready to Hack NASA after learning HTML 😂🤣
+- ⚡ Fun fact: I thaught I am ready to Hack NASA Server after learning HTML 😂🤣
 
 - 🤔 I’m looking for help with : Machine Learning
 
