@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 
 <h1 align="center">Hi 👋, this is Apoorva Verma</h1>
-<h3 align="center">Deep Learning Enthusiast | Full Stack Developer | Python Dev </h3>
+<!-- <h3 align="center">Deep Learning Enthusiast | Full Stack Developer | Python Dev </h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav2427&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav2427" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargav2427" alt="bhargav2427" /></a> </p> -->
 
-- 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)**
-- ✌ Working as a Full Stack Developer at  **[ThinkBiz](https://www.thinkbiz.co.uk/)**
+<!-- - 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)**
+- ✌ Working as a Full Stack Developer at  **[ThinkBiz](https://www.thinkbiz.co.uk/)** -->
 
 - 🌱 I’m currently learning **Django and React**
 
