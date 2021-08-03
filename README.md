@@ -3,7 +3,7 @@
 
 
 <!-- - 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)** -->
-- ✌ Founder of BizDamn  **[ThinkBiz](https://bizdamn.tech/)** 
+- ✌ Founder of **[BizDamn](https://bizdamn.tech/)** 
 
 - 📝 I regularly write  [Blogs](https://bizdamn.tech/author/apoorva/)
 
