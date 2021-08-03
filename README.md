@@ -1,30 +1,11 @@
-<!--
-**apoorva-01/apoorva-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- BLOG-POST-LIST:START -->
-
 <h1 align="center">Hi 👋, this is Apoorva Verma</h1>
-<!-- <h3 align="center">Deep Learning Enthusiast | Full Stack Developer | Python Dev </h3> -->
+<h3 align="center">Deep Learning Enthusiast | Full Stack Developer | Python Dev </h3> 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav2427&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav2427" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargav2427" alt="bhargav2427" /></a> </p> -->
+<!-- - 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)** -->
+- ✌ Founder of BizDamn  **[ThinkBiz](https://bizdamn.tech/)** 
 
-<!-- - 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)**
-- ✌ Working as a Full Stack Developer at  **[ThinkBiz](https://www.thinkbiz.co.uk/)** -->
+- 📝 I regularly write  [Blogs](https://bizdamn.tech/author/apoorva/)
 
 - 🌱 I’m currently learning **Django and React**
 
@@ -40,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/apoorva-01](https://github.com/apoorva-01)
 
-- 📝 I regularly write  [Blogs](https://bizdamn.netlify.app/)
+
 
 - 💬 Ask me about **Python, Flask**
 
