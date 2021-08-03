@@ -7,6 +7,8 @@
 
 - 📝 I regularly write  [Blogs](https://bizdamn.tech/author/apoorva/)
 
+- 📫 Want a website/web-application **bizdamn@gmail.com**
+
 - 🌱 I’m currently learning **Django and React**
 
 - <b>🔭 Working:</b> NLP Powered Chatbot and Social Media App for my College
@@ -25,7 +27,7 @@
 
 - 💬 Ask me about **Python, Flask**
 
-- 📫 Want a website/web-application **vermaapoorva0510@gmail.com**
+
 
 - 👯 I’m looking to collaborate on **JavaScript or Python.**
 
