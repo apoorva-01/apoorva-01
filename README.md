@@ -5,7 +5,7 @@
 <!-- - 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)** -->
 - ✌ Founder of **[BizDamn](https://bizdamn.tech/)** 
 
-- 📝 I regularly write  [Blogs](https://bizdamn.tech/author/apoorva/)
+- 📝 I regularly write  [Blogs](https://bizdamn.tech/author/apoorva-verma)
 
 - 📫 Want a website/web-application **bizdamn@gmail.com**
 
