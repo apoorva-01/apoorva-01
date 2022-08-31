@@ -2,18 +2,30 @@
 <h3 align="center">Deep Learning Enthusiast | Full Stack Developer | Python Dev </h3> 
 
 
-<!-- - 🌐 My Resume **[My Resume Website](https://my-main-portfolio-website.herokuapp.com/)** -->
-- ✌ Founder of **[BizDamn](https://bizdamn.tech/)** 
+<!-- - 🌐 My Resume **[My Resume Website](https://apoorva-verma.netlify.app/)** -->
+- ✌ My name is Apoorva Verma and I am currently pursuing a Bachelor of Technology in Computer Science & Artificial Intelligence.** 
 
-- 📝 I regularly write  [Blogs](https://bizdamn.tech/author/apoorva-verma)
+- Achivements
+01) Microsoft Engage Mentee (4 weeks mentorship)
+02) Research Paper on Crime Prevention system using Facial Recognition has been accepted for publication in INDIAN JOURNAL OF APPLIED RESEARCH  for the 1st September 2022 issue. 
+03) Winner of Venture It Product Design competition organized by IIIT Delhi
+04) Project: Developed an IOT Application that analyzes and predicts machine efficiency in real-time using sensor data. Currently installed at Magneti Marelli plant at Manesar.
+TechStack:
+● Programming: C++, Python
+● Backend & Database: Node.js, MongoDB
+● Frontend: React, HTML, CSS & Material UI
 
+05) College representative team leader at Smart India Hackathon(SIH).
+06) National Level Volleyball Player
+
+<!-- -
 - 📫 Want a website/web-application **bizdamn@gmail.com**
 
 - 🌱 I’m currently learning **Django and React**
 
 - <b>🔭 Working:</b> NLP Powered Chatbot and Social Media App for my College
 
-<!-- - <b>💻 Coding:</b> is my favourite Sport. -->
+ <b>💻 Coding:</b> is my favourite Sport.
 
 - <b>💁‍♂️ Interesting:</b> Deep Learning
 
@@ -21,15 +33,12 @@
 
 - 🤔 I’m looking for help with : Machine Learning
 
+ -->
+
 - 👨‍💻 All of my projects are available at [https://github.com/apoorva-01](https://github.com/apoorva-01)
 
 
 
-- 💬 Ask me about **Python, Flask**
-
-
-
-- 👯 I’m looking to collaborate on **JavaScript or Python.**
 
 
 <hr>
