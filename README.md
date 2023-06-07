@@ -96,7 +96,8 @@ TechStack:
 <!-- <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorva-01&show_icons=true&locale=en&layout=compact" alt="apoorva-01" /></p>
 <br>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=apoorva-01&show_icons=true&locale=en" alt="apoorva-01" />
+</p> -->
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva-01&" alt="apoorva-01" /></p>
 
