@@ -74,24 +74,6 @@ I love discussing tech and exploring new opportunities for collaboration. Feel f
 
 
 
-
-With a strong background in version control, continuous integration, and hands-on experience in Oracle Cloud Infrastructure (OCI), I am constantly evolving my skill set to stay at the forefront of technology.
-
-I am also deeply committed to increasing the representation of women in STEM, empowering the next generation of tech enthusiasts to pursue careers in technology.
-
-- Achivements
-01) Microsoft Engage Mentee (4 weeks mentorship)
-02) Research Paper on Crime Prevention system using Facial Recognition has been accepted for publication in INDIAN JOURNAL OF APPLIED RESEARCH  for the 1st September 2022 issue. 
-03) Winner of Venture It Product Design competition organized by IIIT Delhi
-04) Project: Developed an IOT Application that analyzes and predicts machine efficiency in real-time using sensor data. Currently installed at Magneti Marelli plant at Manesar.
-TechStack:
-● Programming: C++, Python
-● Backend & Database: Node.js, MongoDB
-● Frontend: React, HTML, CSS & Material UI
-
-05) College representative team leader at Smart India Hackathon(SIH).
-06) National Level Volleyball Player
-
 <!-- -
 - 📫 Want a website/web-application **bizdamn@gmail.com**
 
