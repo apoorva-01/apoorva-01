@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, this is Apoorva Verma</h1>
 <h3 align="center">🚀 Release Engineer @ Oracle | DevOps Enthusiast | Cloud Advocate </h3>
-<h3 align="center"> 🌐 [Personal Blog](https://apoorvaverma.in) | 💼 [LinkedIn](https://www.linkedin.com/in/apoorva0510) </h3>
+<h3 align="center">🌐<a href="https://apoorvaverma.in" target="_blank">DevOps Blog</a> | 💼 <a href="https://www.linkedin.com/in/apoorva0510" target="_blank">LinkedIn</a></h3>
 
 ---
 
