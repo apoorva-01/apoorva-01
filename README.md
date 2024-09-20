@@ -1,9 +1,83 @@
 <h1 align="center">Hi 👋, this is Apoorva Verma</h1>
-<h3 align="center">Deep Learning Enthusiast | Full Stack Developer | Python Dev </h3> 
+<h3 align="center">🚀 Release Engineer @ Oracle | DevOps Enthusiast | Cloud Advocate </h3>
+🌐 [Personal Blog](https://apoorvaverma.in) | 💼 [LinkedIn](https://www.linkedin.com/in/apoorva0510)
+
+---
+
+### About Me
+
+I'm Apoorva, a passionate technologist who loves diving deep into the world of **DevOps**, **Cloud Computing**, and **Release Engineering**. Currently, I'm working at **Oracle** as a Release Engineer for the **MySQL and HeatWave** teams, optimizing product release processes and ensuring top-tier solutions for a global audience.
+
+With a strong background in **version control**, **continuous integration**, and hands-on experience in **Oracle Cloud Infrastructure (OCI)**, I am constantly evolving my skill set to stay at the forefront of technology.
+
+I am also deeply committed to increasing the representation of women in STEM, empowering the next generation of tech enthusiasts to pursue careers in technology.
+
+---
+
+### 🔧 Technologies & Tools I Work With
+
+- **Languages**: JavaScript, TypeScript, Python, C++
+- **Cloud & DevOps**: Oracle Cloud Infrastructure (OCI), AWS, Docker, Kubernetes
+- **Version Control**: Git, GitHub Actions, Jenkins
+- **Other**: Fabric.js, Machine Learning, Web Development
+
+---
 
 
-<!-- - 🌐 My Resume **[My Resume Website](https://apoorva-verma.netlify.app/)** -->
-- ✌ My name is Apoorva Verma and I am currently pursuing a Bachelor of Technology in Computer Science & Artificial Intelligence.** 
+### 💼 Experience
+
+**Oracle**  
+*Release Engineer, MySQL & HeatWave Team* (2024 - Present)  
+- Streamlined release processes and enhanced performance for Oracle's cloud solutions.
+  
+*Software Engineer Intern* (2023)  
+- Developed video annotation tools in Oracle Content Management using **Fabric.js**.
+
+**J.P. Morgan**  
+*Quant Research Mentee* (2022 - 2023)  
+- Worked on mini-projects combining finance, mathematics, and coding.
+
+**Microsoft**  
+*Mentee, Engage Program* (2022)  
+- Developed a **Machine Learning**-based Crime Detection System and published the research.
+
+---
+
+### 🏆 Achievements
+
+- **MLH Hackathon Winner**
+- **Research Publication**: "Crime Detection System using Face Recognition," Indian Journal of Applied Research
+- **J.P. Morgan Quant Research Mentee** (Selected from pan-India)
+- **Microsoft Engage'22 Mentee**
+  
+---
+
+### 📖 Latest Blog Posts
+
+I regularly write about DevOps, Cloud Computing, and my latest tech learnings. Check out some of my recent posts:
+
+- [Proxies in JavaScript](https://apoorvaverma.in/posts/proxies)
+- [Connecting a GoDaddy Domain to a DigitalOcean Droplet](https://apoorvaverma.in/posts/domain-setup)
+- [Recovering Disk Space from Docker Containers](https://apoorvaverma.in/posts/recover-docker-space)
+
+---
+
+### 🤝 Let's Connect!
+
+I love discussing tech and exploring new opportunities for collaboration. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/apoorva0510) or through my [personal blog](https://apoorvaverma.in).
+
+---
+
+**"In tech, we keep the engines running, tying everyone together with solutions that make life easier!"**
+
+
+
+
+
+
+With a strong background in version control, continuous integration, and hands-on experience in Oracle Cloud Infrastructure (OCI), I am constantly evolving my skill set to stay at the forefront of technology.
+
+I am also deeply committed to increasing the representation of women in STEM, empowering the next generation of tech enthusiasts to pursue careers in technology.
 
 - Achivements
 01) Microsoft Engage Mentee (4 weeks mentorship)
@@ -38,18 +112,12 @@ TechStack:
 - 👨‍💻 All of my projects are available at [https://github.com/apoorva-01](https://github.com/apoorva-01)
 
 
-
-
-
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/apoorva-verma-aa045a202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorva-01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/apoorva0510/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorva-01" height="30" width="40" /></a>
   <a href="https://github.com/apoorva-01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorva-01" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a> -->
-<a href="https://medium.com/@vermaapoorva0510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vermaapoorva0510" height="30" width="40" /></a>
 
-<!-- <a href="https://www.hackerrank.com/name" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="name" height="30" width="40" /></a> -->
 </p>
 <hr>
 
