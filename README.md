@@ -71,26 +71,6 @@ I love discussing tech and exploring new opportunities for collaboration. Feel f
 **"In tech, we keep the engines running, tying everyone together with solutions that make life easier!"**
 
 
-
-
-
-<!-- -
-- 📫 Want a website/web-application **bizdamn@gmail.com**
-
-- 🌱 I’m currently learning **Django and React**
-
-- <b>🔭 Working:</b> NLP Powered Chatbot and Social Media App for my College
-
- <b>💻 Coding:</b> is my favourite Sport.
-
-- <b>💁‍♂️ Interesting:</b> Deep Learning
-
-- ⚡ Fun fact: I thaught I am ready to Hack NASA Server after learning HTML 😂🤣
-
-- 🤔 I’m looking for help with : Machine Learning
-
- -->
-
 - 👨‍💻 All of my projects are available at [https://github.com/apoorva-01](https://github.com/apoorva-01)
 
 
