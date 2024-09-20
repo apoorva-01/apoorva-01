@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, this is Apoorva Verma</h1>
 <h3 align="center">🚀 Release Engineer @ Oracle | DevOps Enthusiast | Cloud Advocate </h3>
-<h3 align="center">🌐<a href="https://apoorvaverma.in" target="_blank">DevOps Blog</a> | 💼 <a href="https://www.linkedin.com/in/apoorva0510" target="_blank">LinkedIn</a></h3>
+<h3 align="center">🌐 <a href="https://apoorvaverma.in" target="_blank">DevOps Blog</a> | 💼 <a href="https://www.linkedin.com/in/apoorva0510" target="_blank">LinkedIn</a></h3>
 
 ---
 
@@ -40,25 +40,6 @@ I am also deeply committed to increasing the representation of women in STEM, em
 **Microsoft**  
 *Mentee, Engage Program* (2022)  
 - Developed a **Machine Learning**-based Crime Detection System and published the research.
-
----
-
-### 🏆 Achievements
-
-- **MLH Hackathon Winner**
-- **Research Publication**: "Crime Detection System using Face Recognition," Indian Journal of Applied Research
-- **J.P. Morgan Quant Research Mentee** (Selected from pan-India)
-- **Microsoft Engage'22 Mentee**
-  
----
-
-### 📖 Latest Blog Posts
-
-I regularly write about DevOps, Cloud Computing, and my latest tech learnings. Check out some of my recent posts:
-
-- [Proxies in JavaScript](https://apoorvaverma.in/posts/proxies)
-- [Connecting a GoDaddy Domain to a DigitalOcean Droplet](https://apoorvaverma.in/posts/domain-setup)
-- [Recovering Disk Space from Docker Containers](https://apoorvaverma.in/posts/recover-docker-space)
 
 ---
 
