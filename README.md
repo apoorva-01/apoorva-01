@@ -81,8 +81,6 @@ I'm a software engineer who builds and evaluates **AI and machine-learning syste
 **Oracle** — *Software Engineer, MySQL & HeatWave (Release Engineering)*  `2024 – Present`
 CI/CD automation and validation across 100+ test suites; reduced integration failures by ~30%.
 
-**EcomExperts** — *Full-Stack Engineer (Freelance)*  `2023 – 2024`
-Built full-stack apps (React/Next.js/TypeScript + Python/Node) and a multi-service platform.
 
 **Microsoft** — *Engage Mentee (ML)*  `2022`
 Built and evaluated an ML system (88%+ accuracy) and published the research.
