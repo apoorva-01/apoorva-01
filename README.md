@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Apoorva Verma — Applied AI Engineer" />
-</p>
+<h1 align="center">Hi 👋, I'm Apoorva Verma</h1>
 
 <h3 align="center">Software Engineer @ Oracle · Applied AI — RAG, LLM Evaluation & ML Systems · Python / TypeScript</h3>
 
