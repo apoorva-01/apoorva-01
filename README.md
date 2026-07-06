@@ -117,10 +117,6 @@ I'm a software engineer who builds and evaluates **AI and machine-learning syste
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva-01&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=apoorva-01&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 ---
 
 <p align="center"><i>Building and evaluating AI systems that actually ship — and growing women's representation in STEM along the way.</i></p>
