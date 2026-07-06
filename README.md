@@ -46,6 +46,13 @@ I'm a software engineer who builds and evaluates **AI and machine-learning syste
 
 ---
 
+### 🌐 Open Source & Community
+
+- **33 merged PRs across 10 external projects** — Supabase (×3), sqlfluff (×2) ⭐, PostHog, Falcon, pyparsing, pygments, mne-python, PapaParse, jsonpickle, twig.js
+- **18 accepted answers in GitHub Discussions** ⭐ across 15 repos — FastAPI/SQLModel, DuckDB, ripgrep, Rich/Textual, Starlette, spaCy, Apache Airflow, dbt-core, Haystack, turso ⭐, and more
+
+---
+
 ### 🚀 Featured Projects
 
 **AI reliability & evaluation** — my core focus: making LLM systems dependable, not just demos.
@@ -60,13 +67,6 @@ I'm a software engineer who builds and evaluates **AI and machine-learning syste
   Skills, subagents, and hooks that make Claude Code follow good engineering practices by default.
 - **[dra-industry-4.0-assessment-platform](https://github.com/apoorva-01/dra-industry-4.0-assessment-platform)** — `Next.js · PostgreSQL`
   A digital-readiness platform that scores an organization's Industry 4.0 maturity and surfaces actionable insights.
-
----
-
-### 🌐 Open Source & Community
-
-- **33 merged PRs across 10 external projects** — Supabase (×3), sqlfluff (×2) ⭐, PostHog, Falcon, pyparsing, pygments, mne-python, PapaParse, jsonpickle, twig.js
-- **18 accepted answers in GitHub Discussions** ⭐ across 15 repos — FastAPI/SQLModel, DuckDB, ripgrep, Rich/Textual, Starlette, spaCy, Apache Airflow, dbt-core, Haystack, turso ⭐, and more
 
 ---
 
