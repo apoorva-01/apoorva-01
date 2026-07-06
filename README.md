@@ -32,19 +32,18 @@ I'm a software engineer who builds and evaluates **AI and machine-learning syste
 
 <sub>All highly competitive, national-level selections.</sub>
 
-- ![D. E. Shaw](https://img.shields.io/badge/D.%20E.%20Shaw-C8102E?style=flat) &nbsp;DESIS Ascend *Educare Fellow* — **1 of 35** selected from **6,200+** applicants across India (2021–22)
-- ![JPMorgan Chase](https://img.shields.io/badge/JPMorgan%20Chase-117ACA?style=flat&logo=jpmorganchase&logoColor=white) &nbsp;*Quantitative Research Mentee* — 1 of 35 students across India
-- ![McKinsey](https://img.shields.io/badge/McKinsey%20%26%20Company-051C2C?style=flat) &nbsp;*NextGen Women Leaders* — top 50 women in India (Jul 2022)
-- ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white) &nbsp;*Engage Mentee* (2022)
+- **D. E. Shaw** — DESIS Ascend *Educare Fellow* — **1 of 35** selected from **6,200+** applicants across India (2021–22)
+- **JPMorgan Chase** — *Quantitative Research Mentee* — 1 of 35 students across India
+- <img src="./assets/logos/mckinsey.svg" height="16" alt="McKinsey"/> &nbsp;**McKinsey & Company** — *NextGen Women Leaders* — top 50 women in India (Jul 2022)
+- <img src="./assets/logos/microsoft.svg" height="16" alt="Microsoft"/> &nbsp;**Microsoft** — *Engage Mentee* (2022)
 
 ---
 
 ### 💼 Professional Impact
 
-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) &nbsp;*MySQL & HeatWave Release Engineer* — cut integration issues **~30%** across **100+** automated test suites; integrated OpenAI Codex into the release workflow; CI/CD across 5 time zones
-- ![EcomExperts](https://img.shields.io/badge/EcomExperts-FF7139?style=flat) &nbsp;architected **Shadow Stack**, a production multi-agent platform (autonomous Dev / QA / Account-Manager / Strategist agents); visual-QA pipeline at **<20%** false-positive rate; built **Tobi**, an AI Slack assistant the account-manager team adopted for daily use
-- ![Handshake AI](https://img.shields.io/badge/Handshake%20AI-000000?style=flat&logo=handshake&logoColor=white) &nbsp;*Project Dynamo (contract)* — authored frontier-agent evaluation tasks (Terminal-Bench 2 / Harbor)
-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) &nbsp;*Software Engineer Intern* — real-time multimedia + video-annotation tools for Oracle Content Management
+- <img src="./assets/logos/oracle.svg" height="16" alt="Oracle"/> &nbsp;**Oracle** — *MySQL & HeatWave Release Engineer* — cut integration issues **~30%** across **100+** automated test suites; integrated OpenAI Codex into the release workflow; CI/CD across 5 time zones
+- <img src="./assets/logos/handshake.jpg" height="16" alt="Handshake AI"/> &nbsp;**Handshake AI** — *Project Dynamo (contract)* — authored frontier-agent evaluation tasks (Terminal-Bench 2 / Harbor)
+- <img src="./assets/logos/oracle.svg" height="16" alt="Oracle"/> &nbsp;**Oracle** — *Software Engineer Intern* — real-time multimedia + video-annotation tools for Oracle Content Management
 
 ---
 
