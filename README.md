@@ -3,10 +3,10 @@
 <h3 align="center">Software Engineer @ Oracle · Applied AI — RAG, LLM Evaluation & ML Systems · Python / TypeScript</h3>
 
 <p align="center">
-  <a href="https://apoorvaverma.in" target="_blank">🌐 Blog</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/apoorva0510" target="_blank">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://x.com/apoorva_verma_" target="_blank">𝕏 Twitter</a> &nbsp;•&nbsp;
-  <a href="mailto:vermaapoorva0510@gmail.com">✉️ Email</a>
+  <a href="https://apoorvaverma.in" target="_blank"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/apoorva0510" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/apoorva_verma_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:vermaapoorva0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <p align="center">
