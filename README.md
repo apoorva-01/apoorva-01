@@ -72,7 +72,7 @@ I'm a software engineer who builds and evaluates **AI and machine-learning syste
 
 ### 📄 Research & Certifications
 
-- **Published ML research** — *"Crime Detection System using Face Recognition"*, Indian Journal of Applied Research (2022) — **88%+** accuracy, sub-4s inference
+- **Published ML research** — [*"Crime Detection System using Face Recognition"*](https://www.worldwidejournals.com/indian-journal-of-applied-research-%28IJAR%29/fileview/crime-detection-system-using-face-recognition_September_2022_2664725761_8212604.pdf), Indian Journal of Applied Research (2022) — **88%+** accuracy, sub-4s inference
 - **Oracle Cloud Infrastructure 2024 Certified Foundations Associate**
 
 ---
