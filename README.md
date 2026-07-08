@@ -14,18 +14,6 @@
 </p>
 
 ---
-
-### 👩‍💻 About Me
-
-I'm a software engineer who builds and evaluates **AI and machine-learning systems** — and cares about making them reliable, not just demos. By day I'm on **Oracle's MySQL & HeatWave** team, working on CI/CD automation and the rigor of evaluating things against clear standards. Outside that, I build **applied-AI and full-stack projects**: retrieval/RAG systems, LLM evaluation tooling, and the engineering that gets them shipped.
-
-- 🔭 Focused on applied AI — RAG, LLM evaluation, and ML systems, backed by solid Python/TypeScript engineering
-- 🌱 Always learning — lately around LLM evaluation, retrieval, and agentic workflows
-- 💜 Committed to growing the representation of women in STEM
-- 📫 Reach me at **vermaapoorva0510@gmail.com**
-
----
-
 ### 🏆 Selective Programs & Fellowships
 
 <sub>All highly competitive, national-level selections.</sub>
