@@ -18,10 +18,11 @@
 
 <sub>All highly competitive, national-level selections.</sub>
 
-- **D. E. Shaw** — DESIS Ascend *Educare Fellow* — **1 of 35** selected from **6,200+** applicants across India
 - **JPMorgan Chase** — *Quantitative Research Mentee* — 1 of 35 students across India
-- <img src="./assets/logos/mckinsey.svg" height="16" alt="McKinsey"/> &nbsp;**McKinsey & Company** — *NextGen Women Leaders* — top 50 women in India
+- **McKinsey & Company** — *NextGen Women Leaders* — top 50 women in India
 - <img src="./assets/logos/microsoft.svg" height="16" alt="Microsoft"/> &nbsp;**Microsoft** — *Engage Mentee* (2022)
+- **D. E. Shaw** — DESIS Ascend *Educare Fellow* — **1 of 35** selected from **6,200+** applicants across India
+
 
 ---
 
