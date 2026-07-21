@@ -37,8 +37,8 @@
 ### 🌐 Open Source & Community
 
 <!-- OSS:START -->
-- **48 merged PRs across 27 external projects** — zed, duckdb, posthog, directus, keycloak, weaviate, PapaParse, agents, sqlfluff, falcon, and more
-- **27 accepted answers in GitHub Discussions across 20 repos** — typer, turso, helix, dagster, litellm, bevy, dbt-core, clap, textual, nushell, and more
+- **50 merged PRs across 27 external projects** — zed, duckdb, posthog, directus, keycloak, weaviate, PapaParse, agents, sqlfluff, falcon, and more
+- **28 accepted answers in GitHub Discussions across 21 repos** — pytest, typer, turso, helix, dagster, litellm, bevy, dbt-core, clap, textual, and more
 <!-- OSS:END -->
 
 ---
