@@ -38,7 +38,7 @@
 
 <!-- OSS:START -->
 - **53 merged PRs across 27 external projects** — zed, duckdb, posthog, directus, keycloak, weaviate, PapaParse, agents, sqlfluff, falcon, and more
-- **30 accepted answers in GitHub Discussions across 22 repos** — typer, turso, helix, dagster, litellm, bevy, dbt-core, clap, textual, nushell, and more
+- **31 accepted answers in GitHub Discussions across 22 repos** — typer, turso, helix, dagster, litellm, bevy, dbt-core, clap, textual, nushell, and more
 <!-- OSS:END -->
 
 ---
