@@ -37,7 +37,7 @@
 ### 🌐 Open Source & Community
 
 <!-- OSS:START -->
-- **74 merged PRs across 35 external projects** — zed, core, duckdb, posthog, directus, keycloak, weaviate, agents, PapaParse, chroma.js, and more
+- **75 merged PRs across 36 external projects** — zed, core, duckdb, posthog, directus, keycloak, weaviate, agents, PapaParse, chroma.js, and more
 - **34 accepted answers in GitHub Discussions across 24 repos** — typer, turso, helix, dagster, litellm, bevy, spaCy, dbt, clap, textual, and more
 <!-- OSS:END -->
 
